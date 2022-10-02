@@ -1,0 +1,12 @@
+{
+  "name": "Variable Star Quiz",
+  "short_name": "Variable Star Quiz",
+  "id": "com.example.variablestarquiz",
+  "description": "",
+  "orientation": "landscape",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "black",
+  "categories": ["games", "entertainment"],
+  "icons": []
+}
